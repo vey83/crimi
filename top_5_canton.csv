@@ -1,27 +1,27 @@
-"","kanton","value","first_straftat","first_value","second_straftat","second_value","third_straftat","third_value","fourth_straftat","fourth_value","fifth_straftat","fifth_value"
-"1","Zürich",2623,"Ladendiebstahl",2623,"Tätlichkeiten",2409,"Diebstahl",1622,"Betrug",1620,"Sachbeschädigung",1599
-"2","Bern / Berne",2117,"Ladendiebstahl",2117,"Beschimpfung",984,"Tätlichkeiten",952,"Drohung",764,"Hausfriedensbruch + Diebstahl",717
-"3","Luzern",1019,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",1019,"Ladendiebstahl",640,"Tätlichkeiten",300,"Sachbeschädigung",257,"Hausfriedensbruch + Diebstahl",238
-"4","Uri",23,"Beschimpfung",23,"Drohung",22,"Betrug",21,"Tätlichkeiten",20,"Einfache Körperverletzung",19
-"5","Schwyz",208,"Betrug",208,"Ladendiebstahl",111,"Urkundenfälschung",91,"Sachbeschädigung",87,"Beschimpfung",84
-"6","Obwalden",107,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",107,"Sachbeschädigung",37,"Drohung",30,"Diebstahl",28,"Tätlichkeiten",26
-"7","Nidwalden",40,"Betrug",40,"Beschimpfung",29,"Ladendiebstahl",27,"Sachbeschädigung",25,"Hausfriedensbruch + Diebstahl",25
-"8","Glarus",58,"Betrug",58,"Drohung",36,"Tätlichkeiten",32,"Ladendiebstahl",31,"Sachbeschädigung",27
-"9","Zug",178,"Tätlichkeiten",178,"Ladendiebstahl",164,"Betrug",122,"Sachbeschädigung",81,"Drohung",72
-"10","Fribourg / Freiburg",470,"Beschimpfung",470,"Sachbeschädigung",375,"Tätlichkeiten",355,"Drohung",354,"Einfache Körperverletzung",351
-"11","Solothurn",601,"Tätlichkeiten",601,"Ladendiebstahl",537,"Ungehorsam gegen amtliche Verfügungen",456,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",416,"Beschimpfung",397
-"12","Basel-Stadt",1075,"Ladendiebstahl",1075,"Tätlichkeiten",641,"Beschimpfung",558,"Diebstahl",434,"Drohung",417
-"13","Basel-Landschaft",293,"Hausfriedensbruch + Diebstahl",293,"Ladendiebstahl",273,"Tätlichkeiten",200,"Betrug",185,"Sachbeschädigung + Diebstahl",184
-"14","Schaffhausen",280,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",280,"Tätlichkeiten",197,"Beschimpfung",132,"Ladendiebstahl",123,"Drohung",121
-"15","Appenzell Ausserrhoden",146,"Ungehorsam gegen amtliche Verfügungen",146,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",127,"Betrug",72,"Tätlichkeiten",60,"Sachbeschädigung",55
-"16","Appenzell Innerrhoden",21,"Beschimpfung",21,"Sachbeschädigung",17,"Hausfriedensbruch",16,"Tätlichkeiten",15,"Betrug",12
-"17","St. Gallen",863,"Ladendiebstahl",863,"Betrug",654,"Tätlichkeiten",613,"Sachbeschädigung",510,"Beschimpfung",485
-"18","Graubünden / Grigioni / Grischun",290,"Hausfriedensbruch + Diebstahl",290,"Ladendiebstahl",190,"Beschimpfung",167,"Tätlichkeiten",152,"Drohung",145
-"19","Aargau",2741,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",2741,"Ladendiebstahl",928,"Tätlichkeiten",893,"Beschimpfung",648,"Betrug",583
-"20","Thurgau",362,"Ungehorsam gegen amtliche Verfügungen",362,"Tätlichkeiten",356,"Ladendiebstahl",294,"Betrug",257,"Sachbeschädigung",241
-"21","Ticino",635,"Diebstahl",635,"Einfache Körperverletzung",566,"Drohung",419,"Betrug",271,"Beschimpfung",265
-"22","Vaud",2035,"Beschimpfung",2035,"Tätlichkeiten",2002,"Drohung",1434,"Sachbeschädigung",912,"Diebstahl",811
-"23","Valais / Wallis",518,"Beschimpfung",518,"Drohung",440,"Tätlichkeiten",378,"Einfache Körperverletzung",319,"Sachbeschädigung",280
-"24","Neuchâtel",470,"Beschimpfung",470,"Ladendiebstahl",460,"Tätlichkeiten",392,"Hausfriedensbruch + Diebstahl",227,"Sachbeschädigung",215
-"25","Genève",1073,"Beschimpfung",1073,"Einfache Körperverletzung",887,"Drohung",787,"Diebstahl",709,"Urkundenfälschung",613
-"26","Jura",159,"Beschimpfung",159,"Drohung",108,"Tätlichkeiten",83,"Ladendiebstahl",64,"Sachbeschädigung",56
+"","kanton","de","fr","value","first_straftat","first_value","second_straftat","second_value","third_straftat","third_value","fourth_straftat","fourth_value","fifth_straftat","fifth_value"
+"1","Zürich","Zürich","Zurich",2623,"Ladendiebstahl",2623,"Tätlichkeiten",2409,"Diebstahl",1622,"Betrug",1620,"Sachbeschädigung",1599
+"2","Bern / Berne","Bern","Berne",2117,"Ladendiebstahl",2117,"Beschimpfung",984,"Tätlichkeiten",952,"Drohung",764,"Hausfriedensbruch + Diebstahl",717
+"3","Luzern","Luzern","Lucerne",1019,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",1019,"Ladendiebstahl",640,"Tätlichkeiten",300,"Sachbeschädigung",257,"Hausfriedensbruch + Diebstahl",238
+"4","Uri","Uri","Uri",23,"Beschimpfung",23,"Drohung",22,"Betrug",21,"Tätlichkeiten",20,"Einfache Körperverletzung",19
+"5","Schwyz","Schwyz","Schwyz",208,"Betrug",208,"Ladendiebstahl",111,"Urkundenfälschung",91,"Sachbeschädigung",87,"Beschimpfung",84
+"6","Obwalden","Obwalden","Obwald",107,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",107,"Sachbeschädigung",37,"Drohung",30,"Diebstahl",28,"Tätlichkeiten",26
+"7","Nidwalden","Nidwalden","Nidwald",40,"Betrug",40,"Beschimpfung",29,"Ladendiebstahl",27,"Sachbeschädigung",25,"Hausfriedensbruch + Diebstahl",25
+"8","Glarus","Glarus","Glaris",58,"Betrug",58,"Drohung",36,"Tätlichkeiten",32,"Ladendiebstahl",31,"Sachbeschädigung",27
+"9","Zug","Zug","Zoug",178,"Tätlichkeiten",178,"Ladendiebstahl",164,"Betrug",122,"Sachbeschädigung",81,"Drohung",72
+"10","Fribourg / Freiburg","Freiburg","Fribourg",470,"Beschimpfung",470,"Sachbeschädigung",375,"Tätlichkeiten",355,"Drohung",354,"Einfache Körperverletzung",351
+"11","Solothurn","Solothurn","Soleure",601,"Tätlichkeiten",601,"Ladendiebstahl",537,"Ungehorsam gegen amtliche Verfügungen",456,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",416,"Beschimpfung",397
+"12","Basel-Stadt","Basel-Stadt","Bâle-Ville",1075,"Ladendiebstahl",1075,"Tätlichkeiten",641,"Beschimpfung",558,"Diebstahl",434,"Drohung",417
+"13","Basel-Landschaft","Basel-Landschaft","Bâle-Campagne",293,"Hausfriedensbruch + Diebstahl",293,"Ladendiebstahl",273,"Tätlichkeiten",200,"Betrug",185,"Sachbeschädigung + Diebstahl",184
+"14","Schaffhausen","Schaffhausen","Schaffhouse",280,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",280,"Tätlichkeiten",197,"Beschimpfung",132,"Ladendiebstahl",123,"Drohung",121
+"15","Appenzell Ausserrhoden","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures",146,"Ungehorsam gegen amtliche Verfügungen",146,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",127,"Betrug",72,"Tätlichkeiten",60,"Sachbeschädigung",55
+"16","Appenzell Innerrhoden","Appenzell Innerrhoden","Appenzell Rhodes-Intérieures",21,"Beschimpfung",21,"Sachbeschädigung",17,"Hausfriedensbruch",16,"Tätlichkeiten",15,"Betrug",12
+"17","St. Gallen","St. Gallen","St-Gall",863,"Ladendiebstahl",863,"Betrug",654,"Tätlichkeiten",613,"Sachbeschädigung",510,"Beschimpfung",485
+"18","Graubünden / Grigioni / Grischun","Graubünden","Grisons",290,"Hausfriedensbruch + Diebstahl",290,"Ladendiebstahl",190,"Beschimpfung",167,"Tätlichkeiten",152,"Drohung",145
+"19","Aargau","Aargau","Aarau",2741,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",2741,"Ladendiebstahl",928,"Tätlichkeiten",893,"Beschimpfung",648,"Betrug",583
+"20","Thurgau","Thurgau","Thurgovie",362,"Ungehorsam gegen amtliche Verfügungen",362,"Tätlichkeiten",356,"Ladendiebstahl",294,"Betrug",257,"Sachbeschädigung",241
+"21","Ticino","Tessin","Tessin",635,"Diebstahl",635,"Einfache Körperverletzung",566,"Drohung",419,"Betrug",271,"Beschimpfung",265
+"22","Vaud","Waadt","Vaud",2035,"Beschimpfung",2035,"Tätlichkeiten",2002,"Drohung",1434,"Sachbeschädigung",912,"Diebstahl",811
+"23","Valais / Wallis","Wallis","Valais",518,"Beschimpfung",518,"Drohung",440,"Tätlichkeiten",378,"Einfache Körperverletzung",319,"Sachbeschädigung",280
+"24","Neuchâtel","Neuenburg","Neuchâtel",470,"Beschimpfung",470,"Ladendiebstahl",460,"Tätlichkeiten",392,"Hausfriedensbruch + Diebstahl",227,"Sachbeschädigung",215
+"25","Genève","Genf","Genève",1073,"Beschimpfung",1073,"Einfache Körperverletzung",887,"Drohung",787,"Diebstahl",709,"Urkundenfälschung",613
+"26","Jura","Jura","Jura",159,"Beschimpfung",159,"Drohung",108,"Tätlichkeiten",83,"Ladendiebstahl",64,"Sachbeschädigung",56
