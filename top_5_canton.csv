@@ -1,27 +1,27 @@
 "","kanton","de","fr","total","total_canton","first_straftat","first_value","second_straftat","second_value","third_straftat","third_value","fourth_straftat","fourth_value","fifth_straftat","fifth_value"
-"1","Zürich","Zürich","Zurich",6028,31940,"Ladendiebstahl",6028,"Tätlichkeiten",2409,"Sachbeschädigung",2378,"Hausfriedensbruch + Diebstahl",1981,"Betrug",1620
-"2","Bern / Berne","Bern","Berne",3636,14125,"Ladendiebstahl",3636,"Hausfriedensbruch + Diebstahl",1167,"Sachbeschädigung",1059,"Beschimpfung",984,"Tätlichkeiten",952
-"3","Luzern","Luzern","Lucerne",1149,5413,"Ladendiebstahl",1149,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",1019,"Hausfriedensbruch + Diebstahl",416,"Sachbeschädigung",369,"Tätlichkeiten",300
-"4","Uri","Uri","Uri",31,233,"Ladendiebstahl",31,"Beschimpfung",23,"Drohung",22,"Betrug",21,"Tätlichkeiten",20
-"5","Schwyz","Schwyz","Schwyz",254,1896,"Ladendiebstahl",254,"Betrug",208,"Sachbeschädigung",127,"Hausfriedensbruch + Diebstahl",97,"Urkundenfälschung",91
-"6","Obwalden","Obwalden","Obwald",107,645,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",107,"Diebstahl",89,"Sachbeschädigung",55,"Drohung",30,"Hausfriedensbruch + Diebstahl",30
-"7","Nidwalden","Nidwalden","Nidwald",74,406,"Ladendiebstahl",74,"Betrug",40,"Sachbeschädigung",38,"Hausfriedensbruch + Diebstahl",38,"Beschimpfung",29
-"8","Glarus","Glarus","Glaris",77,565,"Ladendiebstahl",77,"Betrug",58,"Sachbeschädigung",43,"Drohung",36,"Tätlichkeiten",32
-"9","Zug","Zug","Zoug",289,1652,"Ladendiebstahl",289,"Tätlichkeiten",178,"Betrug",122,"Sachbeschädigung",107,"Hausfriedensbruch + Diebstahl",97
-"10","Fribourg / Freiburg","Freiburg","Fribourg",762,5424,"Ladendiebstahl",762,"Sachbeschädigung",506,"Beschimpfung",470,"Tätlichkeiten",355,"Drohung",354
-"11","Solothurn","Solothurn","Soleure",1103,6034,"Ladendiebstahl",1103,"Tätlichkeiten",601,"Sachbeschädigung",475,"Ungehorsam gegen amtliche Verfügungen",456,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",416
-"12","Basel-Stadt","Basel-Stadt","Bâle-Ville",2053,7725,"Ladendiebstahl",2053,"Tätlichkeiten",641,"Beschimpfung",558,"Sachbeschädigung",544,"Hausfriedensbruch + Diebstahl",484
-"13","Basel-Landschaft","Basel-Landschaft","Bâle-Campagne",846,3328,"Ladendiebstahl",846,"Hausfriedensbruch + Diebstahl",365,"Sachbeschädigung + Diebstahl",354,"Tätlichkeiten",200,"Betrug",185
-"14","Schaffhausen","Schaffhausen","Schaffhouse",280,2046,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",280,"Ladendiebstahl",225,"Tätlichkeiten",197,"Beschimpfung",132,"Drohung",121
-"15","Appenzell Ausserrhoden","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures",146,1009,"Ungehorsam gegen amtliche Verfügungen",146,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",127,"Ladendiebstahl",108,"Sachbeschädigung",74,"Betrug",72
-"16","Appenzell Innerrhoden","Appenzell Innerrhoden","Appenzell Rhodes-Intérieures",28,215,"Diebstahl",28,"Sachbeschädigung",24,"Hausfriedensbruch",24,"Beschimpfung",21,"Tätlichkeiten",15
-"17","St. Gallen","St. Gallen","St-Gall",1785,8992,"Ladendiebstahl",1785,"Sachbeschädigung",769,"Hausfriedensbruch + Diebstahl",657,"Betrug",654,"Tätlichkeiten",613
-"18","Graubünden / Grigioni / Grischun","Graubünden","Grisons",543,3159,"Ladendiebstahl",543,"Hausfriedensbruch + Diebstahl",391,"Sachbeschädigung",245,"Beschimpfung",167,"Tätlichkeiten",152
-"19","Aargau","Aargau","Aarau",2741,12167,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren",2741,"Ladendiebstahl",1861,"Tätlichkeiten",893,"Sachbeschädigung",744,"Beschimpfung",648
-"20","Thurgau","Thurgau","Thurgovie",781,4527,"Ladendiebstahl",781,"Sachbeschädigung",380,"Ungehorsam gegen amtliche Verfügungen",362,"Tätlichkeiten",356,"Hausfriedensbruch + Diebstahl",270
-"21","Ticino","Tessin","Tessin",853,5531,"Diebstahl",853,"Einfache Körperverletzung",566,"Sachbeschädigung",452,"Drohung",419,"Hausfriedensbruch + Diebstahl",285
-"22","Vaud","Waadt","Vaud",2544,16347,"Diebstahl",2544,"Beschimpfung",2035,"Tätlichkeiten",2002,"Drohung",1434,"Sachbeschädigung",1366
-"23","Valais / Wallis","Wallis","Valais",650,5194,"Diebstahl",650,"Beschimpfung",518,"Drohung",440,"Sachbeschädigung",422,"Tätlichkeiten",378
-"24","Neuchâtel","Neuenburg","Neuchâtel",1093,4679,"Ladendiebstahl",1093,"Beschimpfung",470,"Tätlichkeiten",392,"Sachbeschädigung",387,"Hausfriedensbruch + Diebstahl",316
-"25","Genève","Genf","Genève",1951,13103,"Diebstahl",1951,"Beschimpfung",1073,"Sachbeschädigung",984,"Einfache Körperverletzung",887,"Drohung",787
-"26","Jura","Jura","Jura",206,1147,"Ladendiebstahl",206,"Beschimpfung",159,"Drohung",108,"Sachbeschädigung",90,"Tätlichkeiten",83
+"1","Zürich","Zürich","Zurich",6028,31940,"Diebstahl",6028,"Tätlichkeiten (Art. 126)",2409,"Sachschäden (mit oder ohne Diebstahl)",2378,"Hausfriedensbruch (mit oder ohne Diebstahl)",1981,"Betrug (Art. 146)",1620
+"2","Bern / Berne","Bern","Berne",3636,14125,"Diebstahl",3636,"Hausfriedensbruch (mit oder ohne Diebstahl)",1167,"Sachschäden (mit oder ohne Diebstahl)",1059,"Beschimpfung (Art. 177)",984,"Tätlichkeiten (Art. 126)",952
+"3","Luzern","Luzern","Lucerne",1149,5413,"Diebstahl",1149,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren (Art. 323)",1019,"Hausfriedensbruch (mit oder ohne Diebstahl)",416,"Sachschäden (mit oder ohne Diebstahl)",369,"Tätlichkeiten (Art. 126)",300
+"4","Uri","Uri","Uri",31,233,"Diebstahl",31,"Beschimpfung (Art. 177)",23,"Drohung (Art. 180)",22,"Betrug (Art. 146)",21,"Tätlichkeiten (Art. 126)",20
+"5","Schwyz","Schwyz","Schwyz",254,1896,"Diebstahl",254,"Betrug (Art. 146)",208,"Sachschäden (mit oder ohne Diebstahl)",127,"Hausfriedensbruch (mit oder ohne Diebstahl)",97,"Urkundenfälschung (Art. 251)",91
+"6","Obwalden","Obwalden","Obwald",107,645,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren (Art. 323)",107,"Diebstahl",89,"Sachschäden (mit oder ohne Diebstahl)",55,"Drohung (Art. 180)",30,"Hausfriedensbruch (mit oder ohne Diebstahl)",30
+"7","Nidwalden","Nidwalden","Nidwald",74,406,"Diebstahl",74,"Betrug (Art. 146)",40,"Sachschäden (mit oder ohne Diebstahl)",38,"Hausfriedensbruch (mit oder ohne Diebstahl)",38,"Beschimpfung (Art. 177)",29
+"8","Glarus","Glarus","Glaris",77,565,"Diebstahl",77,"Betrug (Art. 146)",58,"Sachschäden (mit oder ohne Diebstahl)",43,"Drohung (Art. 180)",36,"Tätlichkeiten (Art. 126)",32
+"9","Zug","Zug","Zoug",289,1652,"Diebstahl",289,"Tätlichkeiten (Art. 126)",178,"Betrug (Art. 146)",122,"Sachschäden (mit oder ohne Diebstahl)",107,"Hausfriedensbruch (mit oder ohne Diebstahl)",97
+"10","Fribourg / Freiburg","Freiburg","Fribourg",762,5424,"Diebstahl",762,"Sachschäden (mit oder ohne Diebstahl)",506,"Beschimpfung (Art. 177)",470,"Tätlichkeiten (Art. 126)",355,"Drohung (Art. 180)",354
+"11","Solothurn","Solothurn","Soleure",1103,6034,"Diebstahl",1103,"Tätlichkeiten (Art. 126)",601,"Sachschäden (mit oder ohne Diebstahl)",475,"Ungehorsam gegen amtliche Verfügungen (Art. 292)",456,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren (Art. 323)",416
+"12","Basel-Stadt","Basel-Stadt","Bâle-Ville",2053,7725,"Diebstahl",2053,"Tätlichkeiten (Art. 126)",641,"Beschimpfung (Art. 177)",558,"Sachschäden (mit oder ohne Diebstahl)",544,"Hausfriedensbruch (mit oder ohne Diebstahl)",484
+"13","Basel-Landschaft","Basel-Landschaft","Bâle-Campagne",846,3328,"Diebstahl",846,"Hausfriedensbruch (mit oder ohne Diebstahl)",365,"Sachschäden (mit oder ohne Diebstahl)",354,"Tätlichkeiten (Art. 126)",200,"Betrug (Art. 146)",185
+"14","Schaffhausen","Schaffhausen","Schaffhouse",280,2046,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren (Art. 323)",280,"Diebstahl",225,"Tätlichkeiten (Art. 126)",197,"Beschimpfung (Art. 177)",132,"Drohung (Art. 180)",121
+"15","Appenzell Ausserrhoden","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures",146,1009,"Ungehorsam gegen amtliche Verfügungen (Art. 292)",146,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren (Art. 323)",127,"Diebstahl",108,"Sachschäden (mit oder ohne Diebstahl)",74,"Betrug (Art. 146)",72
+"16","Appenzell Innerrhoden","Appenzell Innerrhoden","Appenzell Rhodes-Intérieures",28,215,"Diebstahl",28,"Sachschäden (mit oder ohne Diebstahl)",24,"Hausfriedensbruch (mit oder ohne Diebstahl)",24,"Beschimpfung (Art. 177)",21,"Tätlichkeiten (Art. 126)",15
+"17","St. Gallen","St. Gallen","St-Gall",1785,8992,"Diebstahl",1785,"Sachschäden (mit oder ohne Diebstahl)",769,"Hausfriedensbruch (mit oder ohne Diebstahl)",657,"Betrug (Art. 146)",654,"Tätlichkeiten (Art. 126)",613
+"18","Graubünden / Grigioni / Grischun","Graubünden","Grisons",543,3159,"Diebstahl",543,"Hausfriedensbruch (mit oder ohne Diebstahl)",391,"Sachschäden (mit oder ohne Diebstahl)",245,"Beschimpfung (Art. 177)",167,"Tätlichkeiten (Art. 126)",152
+"19","Aargau","Aargau","Aarau",2741,12167,"Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren (Art. 323)",2741,"Diebstahl",1861,"Tätlichkeiten (Art. 126)",893,"Sachschäden (mit oder ohne Diebstahl)",744,"Beschimpfung (Art. 177)",648
+"20","Thurgau","Thurgau","Thurgovie",781,4527,"Diebstahl",781,"Sachschäden (mit oder ohne Diebstahl)",380,"Ungehorsam gegen amtliche Verfügungen (Art. 292)",362,"Tätlichkeiten (Art. 126)",356,"Hausfriedensbruch (mit oder ohne Diebstahl)",270
+"21","Ticino","Tessin","Tessin",853,5531,"Diebstahl",853,"Einfache Körperverletzung (Art. 123)",566,"Sachschäden (mit oder ohne Diebstahl)",452,"Drohung (Art. 180)",419,"Hausfriedensbruch (mit oder ohne Diebstahl)",285
+"22","Vaud","Waadt","Vaud",2544,16347,"Diebstahl",2544,"Beschimpfung (Art. 177)",2035,"Tätlichkeiten (Art. 126)",2002,"Drohung (Art. 180)",1434,"Sachschäden (mit oder ohne Diebstahl)",1366
+"23","Valais / Wallis","Wallis","Valais",650,5194,"Diebstahl",650,"Beschimpfung (Art. 177)",518,"Drohung (Art. 180)",440,"Sachschäden (mit oder ohne Diebstahl)",422,"Tätlichkeiten (Art. 126)",378
+"24","Neuchâtel","Neuenburg","Neuchâtel",1093,4679,"Diebstahl",1093,"Beschimpfung (Art. 177)",470,"Tätlichkeiten (Art. 126)",392,"Sachschäden (mit oder ohne Diebstahl)",387,"Hausfriedensbruch (mit oder ohne Diebstahl)",316
+"25","Genève","Genf","Genève",1951,13103,"Diebstahl",1951,"Beschimpfung (Art. 177)",1073,"Sachschäden (mit oder ohne Diebstahl)",984,"Einfache Körperverletzung (Art. 123)",887,"Drohung (Art. 180)",787
+"26","Jura","Jura","Jura",206,1147,"Diebstahl",206,"Beschimpfung (Art. 177)",159,"Drohung (Art. 180)",108,"Sachschäden (mit oder ohne Diebstahl)",90,"Tätlichkeiten (Art. 126)",83
