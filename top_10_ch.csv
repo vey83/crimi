@@ -1,11 +1,11 @@
-"","straftat","Infraction","total"
-"1","Diebstahl","Vol",26683
-"2","Sachschäden (mit oder ohne Diebstahl)","Dommages à la propriété (avec ou sans vol)",11622
-"3","Tätlichkeiten","Voies de fait ",11528
-"4","Beschimpfung","Injure ",10202
-"5","Hausfriedensbruch (mit oder ohne Diebstahl)","Violation de domicile (avec ou sans vol)",9321
-"6","Drohung","Menaces ",8538
-"7","Einfache Körperverletzung","Lésions corporelles simples ",6350
-"8","Betrug","Escroquerie ",5941
-"9","Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren","Inobservation par le débiteur des règles de la procédure de poursuite pour dettes ou de faillite ",5834
-"10","Urkundenfälschung","Faux dans les titres ",3907
+"","Straftat","Infraction","Total","Anzahl"
+"1","Diebstahl","Vol",26683,26683
+"2","Sachschäden (mit oder ohne Diebstahl)","Dommages à la propriété (avec ou sans vol)",11622,11622
+"3","Tätlichkeiten","Voies de fait ",11528,11528
+"4","Beschimpfung","Injure ",10202,10202
+"5","Hausfriedensbruch (mit oder ohne Diebstahl)","Violation de domicile (avec ou sans vol)",9321,9321
+"6","Drohung","Menaces ",8538,8538
+"7","Einfache Körperverletzung","Lésions corporelles simples ",6350,6350
+"8","Betrug","Escroquerie ",5941,5941
+"9","Ungehorsam des Schuldners im Betreibungs- und Konkursverfahren","Inobservation par le débiteur des règles de la procédure de poursuite pour dettes ou de faillite ",5834,5834
+"10","Urkundenfälschung","Faux dans les titres ",3907,3907
